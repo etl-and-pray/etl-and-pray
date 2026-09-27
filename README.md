@@ -1,4 +1,4 @@
-# I'm a Junior Data Analyst
+# Junior Data Analyst
 
 Passionate about data manipulation, building analytical data marts, machine learning, and tracking product metrics. Specialized in transforming raw datasets into clear business insights, effective predictive models, and data-driven management decisions.
 
@@ -33,6 +33,9 @@ Here are key end-to-end projects covering the full analytical lifecycle from exp
 
 * Email: texas6data7massacre@gmail.com
 * GitHub: [@etl-and-pray](https://github.com/etl-and-pray)
- <p align="center">
-  <img src="https://i.pinimg.com/1200x/8e/99/5f/8e995fa21c665f4bdb39a0db53c353f4.jpg" width="400" alt="meme">
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/82/bc/87/82bc8752fea48905b8ce7b667587da87.jpg" width="400" alt="Data Science meme">
 </p>
