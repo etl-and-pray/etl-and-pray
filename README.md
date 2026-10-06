@@ -3,12 +3,12 @@
 
 ## Навыки
 
-SQL: SQLite, Adminer; выборки, JOIN, агрегации, проектирование витрин данных
-Python: pandas, NumPy, Matplotlib, Statsmodels, Jupyter Notebook
-Статистика и аналитика: A/B-тесты, проверка гипотез (t-тест, z-тест, ANOVA, хи-квадрат), продуктовые метрики, когортный анализ (retention, heatmap)
-Визуализация и отчётность: Power BI, Excel (сводные таблицы), отчёты и презентации по принципу Минто
-Инструменты: Git/GitHub, Jupyter, Google Colab
-Небольшой опыт: scikit-learn, Apache Airflow, Docker Compose, FastAPI
+- SQL: SQLite, Adminer; выборки, JOIN, агрегации, проектирование витрин данных
+- Python: pandas, NumPy, Matplotlib, Statsmodels, Jupyter Notebook
+- Статистика и аналитика: A/B-тесты, проверка гипотез (t-тест, z-тест, ANOVA, хи-квадрат), продуктовые метрики, когортный анализ (retention, heatmap)
+- Визуализация и отчётность: Power BI, Excel (сводные таблицы), отчёты и презентации по принципу Минто
+- Инструменты: Git/GitHub, Jupyter, Google Colab
+- Небольшой опыт: scikit-learn, Apache Airflow, Docker Compose, FastAPI
 
 ---
 
