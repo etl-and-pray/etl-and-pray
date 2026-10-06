@@ -1,5 +1,4 @@
 # Junior Data Analyst
-
 ---
 
 ## Навыки
